@@ -1,3 +1,5 @@
+## 作业
+
 编写一个类型脚本程序来订阅 template pallet 中的值的更新（something）和 event。
 要求：类型脚本源代码；程序运行截图，输出 something 的新值和 SomethingStored 的事件
 
